@@ -21,4 +21,6 @@ Redeploy by running deploy_to_lambda.sh
 ## Reddit Topic
 Do remember to edit the Reddit subtopic to your preferred subtopic. Currently the topic is set to r/singapore
 
-     
+## Accessing the API Endpoint
+Navigate to your function page, Click on API Gateway to obtain your URL
+![alt text](/images/API_Gateway_SS.jpg "AWS Lambda function page screenshot")
